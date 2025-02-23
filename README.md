@@ -1,3 +1,4 @@
+DESCRIPTION
 Dictionary (accounts):
 The program uses a dictionary to store account information. The key is the account number (a unique identifier for each account). The value is the account balance (a floating-point number representing the amount of money in the account).
 Constants
